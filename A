@@ -1,0 +1,7 @@
+score = int(input("enter your exam score: "))
+if score >= 90:
+    print("your grades are excellent")
+elif score <90:
+    print ("good")
+else:
+    print("keep practicing. you can do better!")
